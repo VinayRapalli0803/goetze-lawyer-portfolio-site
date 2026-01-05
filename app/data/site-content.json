@@ -1,0 +1,105 @@
+{
+  "site": {
+    "name": "Goetze Law",
+    "tagline": "Strategic counsel for families, founders, and future-proof legacies.",
+    "nav": ["Home", "About", "Expertise", "Consultations", "Why Us", "Contact"]
+  },
+  "hero": {
+    "title": "Championing clarity, compassion, and results in every case.",
+    "description": "Attorney Lena Goetze provides meticulous legal strategy, human-centered guidance, and responsive communication for clients navigating complex transitions.",
+    "cta": "Contact Me"
+  },
+  "about": {
+    "title": "About",
+    "name": "Lena Goetze, Esq.",
+    "description": "With 14+ years in family law and mediation, Lena merges courtroom insight with collaborative planning to protect clients' futures. She is known for transparent guidance, rapid response times, and thorough preparation.",
+    "highlights": [
+      {
+        "title": "Experience",
+        "description": "14+ years guiding high-stakes family and civil matters across multiple jurisdictions."
+      },
+      {
+        "title": "Approach",
+        "description": "Calm, strategic, and people-first advocacy with a focus on sustainable outcomes."
+      },
+      {
+        "title": "Values",
+        "description": "Integrity, discretion, and a relentless commitment to client trust."
+      }
+    ]
+  },
+  "expertise": {
+    "title": "Expertise",
+    "items": [
+      {
+        "title": "Divorce Mediation",
+        "description": "Guided mediation to preserve relationships and secure equitable agreements."
+      },
+      {
+        "title": "Family Law Strategy",
+        "description": "Comprehensive planning for custody, support, and asset protection."
+      },
+      {
+        "title": "Estate Planning",
+        "description": "Modern estate solutions tailored for evolving family structures."
+      },
+      {
+        "title": "Business Counsel",
+        "description": "Proactive legal guidance for founders and private enterprises."
+      },
+      {
+        "title": "Dispute Resolution",
+        "description": "Resolution-focused negotiation to prevent lengthy court battles."
+      }
+    ]
+  },
+  "consultation": {
+    "title": "Free initial consultations on all matters",
+    "description": "Schedule a confidential conversation to assess your goals and outline the next steps.",
+    "cta": "Contact Us"
+  },
+  "whyUs": {
+    "title": "Why Choose Us",
+    "items": [
+      {
+        "title": "Strategic Roadmaps",
+        "description": "Every engagement begins with a detailed legal roadmap aligned to your priorities.",
+        "badge": "Plan"
+      },
+      {
+        "title": "Client-First Support",
+        "description": "Dedicated response windows and proactive updates keep you informed.",
+        "badge": "Care"
+      },
+      {
+        "title": "Trusted Negotiation",
+        "description": "Consensus-building with assertive advocacy at every milestone.",
+        "badge": "Trust"
+      },
+      {
+        "title": "Results Driven",
+        "description": "Focused on measurable outcomes that protect your long-term goals.",
+        "badge": "Results"
+      }
+    ]
+  },
+  "contact": {
+    "address": {
+      "title": "Head Office",
+      "line1": "302 Meridian Avenue",
+      "line2": "Suite 1400",
+      "city": "San Francisco, CA 94105"
+    },
+    "details": {
+      "title": "Contact",
+      "phone": "+1 (415) 555-0196",
+      "email": "hello@goetzelaw.com",
+      "hours": "Mon-Fri: 9:00 AM - 6:00 PM"
+    }
+  },
+  "footer": {
+    "privacy": "Privacy Policy",
+    "copyright": "© 2024 Goetze Law. All rights reserved.",
+    "disclaimer": "Attorney advertising. Prior results do not guarantee a similar outcome."
+  }
+}
